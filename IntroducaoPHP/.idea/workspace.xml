@@ -11,7 +11,11 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/script.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/index.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4">
     <include_path>
@@ -46,7 +50,12 @@
       <option name="presentableId" value="Default" />
       <updated>1605615978012</updated>
       <workItem from="1605615980087" duration="1038000" />
-      <workItem from="1605617211793" duration="9317000" />
+      <workItem from="1605617211793" duration="10516000" />
+      <workItem from="1605957664570" duration="5721000" />
+      <workItem from="1606306724948" duration="1413000" />
+      <workItem from="1606735751064" duration="2437000" />
+      <workItem from="1606848612389" duration="2803000" />
+      <workItem from="1606852370299" duration="7594000" />
     </task>
     <servers />
   </component>
@@ -63,10 +72,10 @@
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state x="72" y="55" width="824" height="691" key="#CLI_Interpreters/72.27.1294.741@72.27.1294.741" timestamp="1605616529831" />
-    <state x="348" y="79" width="732" height="644" key="#Inspections" timestamp="1605638372848">
+    <state x="348" y="79" width="732" height="644" key="#Inspections" timestamp="1606854279117">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="348" y="79" width="732" height="644" key="#Inspections/72.27.1294.741@72.27.1294.741" timestamp="1605638372848" />
+    <state x="348" y="79" width="732" height="644" key="#Inspections/72.27.1294.741@72.27.1294.741" timestamp="1606854279117" />
     <state x="72" y="27" width="700" height="741" key="#PHP" timestamp="1605617009229">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
@@ -75,10 +84,10 @@
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state x="205" y="155" width="424" height="491" key="FileChooserDialogImpl/72.27.1294.741@72.27.1294.741" timestamp="1605617008413" />
-    <state x="514" y="323" width="399" height="156" key="NewPhpFileDialog" timestamp="1605643814308">
+    <state x="514" y="323" width="399" height="156" key="NewPhpFileDialog" timestamp="1606848632700">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="514" y="323" width="399" height="156" key="NewPhpFileDialog/72.27.1294.741@72.27.1294.741" timestamp="1605643814308" />
+    <state x="514" y="323" width="399" height="156" key="NewPhpFileDialog/72.27.1294.741@72.27.1294.741" timestamp="1606848632700" />
     <state x="208" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1605639564999">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
